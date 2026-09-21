@@ -7,7 +7,7 @@ I'm Darren, a game developer based in Ireland.
 
 🧰 My favourite tools are Miro, Blender, and DaVinci Resolve.
 
-📫 How to reach me: [https://www.linkedin.com/in/darren-dev/]
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/darren-dev/)
 <!--
 **DarrenMeidl/DarrenMeidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

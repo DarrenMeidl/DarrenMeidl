@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hey there! 🎮
+I'm Darren, a game developer based in Ireland.
 
+🚧 I'm currently working on an 8-ball game where the players are tiny figures ON the table, using powerups to mess with the balls mid-shot!
+
+🛠️ My main tech stack is C++, C#, Unreal Engine (Blueprints/UMG), and Unity.
+
+🧰 My favourite tools are Miro, Blender, and DaVinci Resolve.
+
+📫 How to reach me: [https://www.linkedin.com/in/darren-dev/]
 <!--
 **DarrenMeidl/DarrenMeidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

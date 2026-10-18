@@ -1,7 +1,7 @@
 ## Hey there! 🎮
 I'm Darren, a game developer based in Ireland.
 
-🚧 I'm currently working on an 8-ball game where the players are tiny figures ON the table, using powerups to mess with the balls mid-shot!
+🚧 I'm currently working on an 8-ball game where players use special items to mess with the balls mid-shot!
 
 🛠️ My main tech stack is C++, C#, Unreal Engine (Blueprints/UMG), and Unity.
 

@@ -5,7 +5,7 @@ I'm Darren, a game developer based in Ireland.
 
 🛠️ My main tech stack is C++, C#, Unreal Engine (Blueprints/UMG), and Unity.
 
-🧰 My favourite tools are Miro, Blender, and DaVinci Resolve.
+🧰 My favourite tools are Miro, Unity, and DaVinci Resolve.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/darren-dev/)
 <!--
